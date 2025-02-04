@@ -4,8 +4,9 @@
 
 <br>
 
-Este repositório contém o desenvolvimento de um layout de perfil para uma rede social focada no compartilhamento de fotos de viagem. <br/>
-O projeto foi desenvolvido como parte da trilha de **formação Full-Stack da Rocketseat**, explorando conceitos essenciais de **HTML** e **CSS**. <br/>
+Este repositório contém o desenvolvimento de um layout de perfil para uma rede social focada no compartilhamento de fotos de viagem.
+
+O projeto foi desenvolvido como parte da trilha de **formação Full-Stack da Rocketseat**, explorando conceitos essenciais de **HTML** e **CSS**.
 
 <br>
 
