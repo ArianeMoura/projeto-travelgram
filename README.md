@@ -36,4 +36,5 @@ Durante a construção do projeto, foram aplicados e revisados os seguintes conc
 
 <br>
 
-🖥️ **Click <a href="https://arianemoura.github.io/projeto-travelgram/">here</a> to access the website.**
+### 🖥️ Acesse o Projeto
+Click <a href="https://arianemoura.github.io/projeto-travelgram/">here</a> to access the website.
