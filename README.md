@@ -10,12 +10,12 @@ O projeto foi desenvolvido como parte da trilha de **formação Full-Stack da Ro
 
 <br>
 
-### Sobre o Projeto ✨
+### ✨ Sobre o Projeto 
 O **Perfil de Viagens** busca apresentar um layout elegante e responsivo para exibição de conteúdos relacionados a experiências de viagem, incluindo informações do usuário e galeria de fotos. O design foi cuidadosamente construído com base no protótipo disponibilizado no **Figma**, respeitando o **Style Guide** estabelecido.
 
 <br>
 
-### Conceitos Abordados 📚
+### 📚 Conceitos Abordados 
 Durante a construção do projeto, foram aplicados e revisados os seguintes conceitos e ferramentas:
 
 – **Display Flex:** organização eficiente de elementos em layouts modernos.
