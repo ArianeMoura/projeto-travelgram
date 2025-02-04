@@ -1,4 +1,4 @@
-# Perfil de Viagens: Travelgram 🌎
+# Perfil de Viagens - Travelgram 🌎
 
 - **Projeto de Formação Full-Stack Rocketseat**
 
